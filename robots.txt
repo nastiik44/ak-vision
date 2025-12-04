@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Allow: /
+Sitemap: https://nastiik44.github.io/ak-vision/sitemap.xml
